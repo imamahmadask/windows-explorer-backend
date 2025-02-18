@@ -20,9 +20,9 @@ Before you begin, ensure you have met the following requirements:
 To install the Folder Structure Backend, follow these steps:
 
 1. Clone the repository:
-
+```plaintext
 git clone [https://github.com/your-username/folder-structure-backend.git](https://github.com/your-username/folder-structure-backend.git)
-
+```
 
 2. Navigate to the project directory:
 ```plaintext
