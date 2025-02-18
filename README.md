@@ -1,4 +1,3 @@
-```markdown
 # Folder Structure Backend
 
 This is a backend application that provides an API for managing a folder structure. It's built with Node.js and Express, and it serves as the backend for a folder explorer frontend application.
@@ -21,36 +20,26 @@ Before you begin, ensure you have met the following requirements:
 To install the Folder Structure Backend, follow these steps:
 
 1. Clone the repository:
-```
 
 git clone [https://github.com/your-username/folder-structure-backend.git](https://github.com/your-username/folder-structure-backend.git)
 
-```plaintext
 
 2. Navigate to the project directory:
-```
-
+```plaintext
 cd folder-structure-backend
-
-```plaintext
-
-3. Install the dependencies:
 ```
-
-npm install
-
+3. Install the dependencies:
 ```plaintext
-
+npm install
+```
 ## Using Folder Structure Backend
 
 To use the Folder Structure Backend, follow these steps:
 
 1. Start the server:
-```
-
-npm start
-
 ```plaintext
+npm start
+```
 The server will start running on `http://localhost:3000`.
 
 2. You can now make requests to the API endpoints:
